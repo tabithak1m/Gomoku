@@ -12,4 +12,5 @@ The functions for the AI engine:
 - `detect rows(board, col, length)`
 - `search max(board)`
 - `is win(board)`  
+
 were written by me where the other functions were a part of the starter code given by Professor Michael Guerzoy.
